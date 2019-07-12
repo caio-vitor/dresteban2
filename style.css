@@ -46,6 +46,7 @@ nav {
 }
 
 .logo h1 {
+	font-size: 1.2em;
 	line-height: 0.85em;
 }
 .menu {
@@ -124,7 +125,8 @@ nav {
 /* Dr. Esteban */
 
 .dresteban {
-	padding: 15vh 20vw;
+	background-color: #decada;
+	padding: 5vh 5vw;
 	display: flex;
 	flex-flow: row;
 }
@@ -142,6 +144,7 @@ nav {
 	margin: 0 0 4vh 0;
 	color: #975c90;
 	font-size: 2.5em;
+	text-transform: uppercase;
 }
 
 .bio p {
@@ -154,7 +157,7 @@ nav {
 /* Especialidades */
 
 .espec {
-	height: 100vh;
+	min-height: 80vh;
 	background-color: #eee;
 	display: flex;
 	flex-wrap: wrap;
@@ -172,6 +175,7 @@ nav {
 	justify-content: center;
 	align-items: center;
 	align-self: flex-start;
+	text-transform: uppercase;
 }
 
 .box {
@@ -180,7 +184,7 @@ nav {
 	border-radius: 5px;
 	margin: 0 2vw;
 	padding: 2em;
-	flex-basis: 20%;
+	flex-basis: 38%;
 	font-size: 1.2em;
 	line-height: 1.5;
 }
@@ -192,17 +196,13 @@ nav {
 	margin-bottom: 5vh;
 }
 
-.box ul {
-	list-style-type: none;
-}
-
 .box li {
 	margin-bottom: 2vh;
 }
 
 /* Consultório */
 .consultorio {
-	min-height: 100vh;
+	background-color: #decada;
 	width: 100%;
 	text-align: center;
 	position: relative;
@@ -221,33 +221,35 @@ nav {
 }
 
 .glide {
-	height: 100vh;
+	height: 50vw;
 	overflow: hidden;
 }
 
 /* Artigos */
 .artigos {
+	background-color: #eee;
 	min-height: 42vh;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
-	padding: 15vh 20vw;
-	align-content: flex-start;
+	padding: 5vh 5vw;
+	align-content: center;
+	justify-content: center;
 }
 
 .art {
 	width: 100%;
 	height: 1em;
 	margin-bottom: 5vh;
-	color: #332657;
+	color: #975c90;
 }
 
 .art-menu {
 	padding: 2vh 1vw;
 	border: 1px solid lightslategray;
 	border-radius: 5px;
-	height: 20vh;
-	flex-basis: 15vw;
+	flex-basis: 20vw;
+	align-self: flex-start;
 }
 
 .art-menu ul {
@@ -271,7 +273,7 @@ nav {
 article {
 	margin: 0;
 	margin-left: 5vw;
-	flex-basis: 30vw;
+	flex-basis: 60vw;
 	text-align: justify;
 	font-size: 1.2em;
 	line-height: 1.5;
@@ -293,6 +295,7 @@ article a:hover {
 /* Contato */
 
 .contato {
+	min-height: 60vw;
 	background-image: url('assets/imgs/bg02.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -300,12 +303,7 @@ article a:hover {
 	flex-flow: row wrap;
 	align-content: flex-start;
 	justify-content: center;
-	padding-bottom: 15vh;
-}
-
-.ct {
-	color: #332657;
-	height: 12vh;
+	padding-top: 5vh;
 }
 
 .contato-info {
@@ -322,8 +320,20 @@ article a:hover {
 }
 
 .mapa {
+	margin-top: 4vh;
 	margin-left: 4vw;
 	filter: saturate(0);
+	position: relative;
+	padding-bottom: 40%;
+	height: 0;
+	overflow: hidden;
+}
+.mapa iframe {
+	position: absolute;
+	top: 2.2em;
+	left: 0;
+	width: 100% !important;
+	height: 80% !important;
 }
 
 footer {
@@ -355,14 +365,15 @@ footer p {
 
 @media (max-width: 1440px) {
 	.dresteban {
-		padding: 15vh 10vw;
+		padding: 5vh 5vw;
 	}
+
 	.artigos {
-		padding: 15vh 10vw;
+		padding: 5vh 5vw;
 	}
 
 	.art-menu {
-		flex-basis: 20vw;
+		flex-basis: 30vw;
 		height: unset;
 		max-height: 35vh;
 	}
@@ -372,6 +383,58 @@ footer p {
 	}
 
 	.box {
-		flex-basis: 32%;
+		flex-basis: 38%;
+	}
+}
+
+@media (max-width: 1280px) {
+	.dresteban {
+		flex-flow: column;
+	}
+	.dresteban img {
+		flex-basis: auto;
+		align-self: center;
+		margin-bottom: 5vh;
+	}
+	.contato {
+		flex-direction: column;
+		align-content: center;
+		justify-content: center;
+		align-items: center;
+		min-height: 100vh;
+	}
+}
+
+@media (max-width: 900px) {
+	.dresteban img {
+		width: 80vw;
+	}
+	.espec {
+		flex-flow: column;
+		padding: 0 5vw;
+	}
+	.box {
+		flex-basis: auto;
+		margin: 0 0 5vh 0;
+	}
+	.consultorio p {
+		padding: 0 5vw;
+	}
+	.artigos {
+		flex-direction: column;
+	}
+
+	.art-menu {
+		flex-basis: auto;
+		align-self: center;
+		margin-bottom: 5vh;
+	}
+
+	.contato {
+		max-width: 100vw;
+	}
+
+	.mapa {
+		padding-bottom: 80%;
 	}
 }
