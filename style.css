@@ -41,11 +41,12 @@ nav {
 	align-self: center;
 }
 
-.logoic {
+/* .logoic {
 	filter: invert(.35) sepia(1) saturate(2) hue-rotate(256deg);
-}
+} */
 
 .logo h1 {
+	align-self: center;
 	font-size: 1.2em;
 	line-height: 0.85em;
 }

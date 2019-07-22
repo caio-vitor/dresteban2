@@ -1,15 +1,117 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="55 213.885 379.534 178.82" style="enable-background:new 55 213.885 379.534 178.82;" xml:space="preserve">
-<path d="M55,341.822c0,5.523,4.478,10,10,10h70.99c4.479,0,8.412-2.979,9.626-7.29l21.439-76.146l20.924,116.092
-	c0.776,4.305,4.261,7.606,8.602,8.149c0.417,0.052,0.832,0.078,1.244,0.078c3.88,0,7.461-2.26,9.099-5.859l23.052-50.667
-	l4.577,9.855c1.639,3.53,5.178,5.788,9.069,5.788h36.64c4.479,0,8.412-2.979,9.626-7.29l21.438-76.146l20.925,116.092
-	c0.776,4.305,4.261,7.606,8.602,8.149c4.342,0.546,8.531-1.799,10.343-5.782l23.051-50.667l4.577,9.855
-	c1.639,3.53,5.178,5.788,9.069,5.788h36.641c5.522,0,10-4.477,10-10c0-5.523-4.478-10-10-10h-30.259l-11.053-23.797
-	c-1.64-3.531-5.179-5.788-9.069-5.788c-0.013,0-0.026,0-0.039,0c-3.906,0.015-7.445,2.304-9.063,5.859l-18.797,41.316l-22.944-127.3
-	c-0.826-4.584-4.709-7.991-9.361-8.214c-4.686-0.219-8.844,2.795-10.106,7.278l-31.152,110.646h-22.685l-11.053-23.797
-	c-1.64-3.531-5.179-5.788-9.069-5.788c-0.013,0-0.026,0-0.039,0c-3.906,0.015-7.445,2.303-9.063,5.859l-18.798,41.316l-22.943-127.3
-	c-0.826-4.584-4.709-7.991-9.361-8.214c-4.659-0.227-8.844,2.794-10.106,7.278l-31.153,110.646H65
-	C59.478,331.822,55,336.299,55,341.822z"/>
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 181.884 174.103" style="enable-background:new 0 0 181.884 174.103;" xml:space="preserve">
+<g>
+	<circle style="fill:#FAB600;" cx="90.942" cy="6.322" r="6.322"/>
+	<circle style="fill:#FAB600;" cx="90.942" cy="167.781" r="6.322"/>
+	<circle style="fill:#FEA200;" cx="63.708" cy="14.458" r="8.267"/>
+	<circle style="fill:#FEA200;" cx="63.708" cy="156.684" r="8.267"/>
+	<circle style="fill:#FF4701;" cx="13.131" cy="87.538" r="13.131"/>
+	<circle style="fill:#FF4701;" cx="168.753" cy="86.124" r="13.131"/>
+	<circle style="fill:#FF5108;" cx="19.939" cy="55.441" r="11.182"/>
+	<circle style="fill:#FF5108;" cx="19.939" cy="119.166" r="11.182"/>
+	<circle style="fill:#FE7501;" cx="38.419" cy="31.611" r="9.24"/>
+	<circle style="fill:#FE7501;" cx="38.419" cy="139.574" r="9.24"/>
+	<circle style="fill:#FEA200;" cx="117.203" cy="157.699" r="8.267"/>
+	<circle style="fill:#FEA200;" cx="117.203" cy="15.474" r="8.267"/>
+	<circle style="fill:#FF5108;" cx="161.945" cy="119.635" r="11.182"/>
+	<circle style="fill:#FF5108;" cx="161.945" cy="55.91" r="11.182"/>
+	<circle style="fill:#FE7501;" cx="139.574" cy="140.547" r="9.24"/>
+	<circle style="fill:#FE7501;" cx="139.574" cy="32.583" r="9.24"/>
+	<circle style="fill:#FAB600;" cx="129.274" cy="48.72" r="5.082"/>
+	<circle style="fill:#FAB600;" cx="52.61" cy="125.383" r="5.082"/>
+	<circle style="fill:#FEA200;" cx="116.641" cy="39.311" r="5.76"/>
+	<circle style="fill:#FEA200;" cx="43.223" cy="112.729" r="5.76"/>
+	<circle style="fill:#FF4701;" cx="52.37" cy="48.959" r="9.148"/>
+	<circle style="fill:#FF4701;" cx="129.731" cy="124.927" r="9.148"/>
+	<circle style="fill:#FF5108;" cx="74.891" cy="35.064" r="7.791"/>
+	<circle style="fill:#FF5108;" cx="39.185" cy="70.769" r="7.791"/>
+	<circle style="fill:#FE7501;" cx="98.608" cy="33.387" r="6.437"/>
+	<circle style="fill:#FE7501;" cx="37.756" cy="94.239" r="6.437"/>
+	<circle style="fill:#FEA200;" cx="65.243" cy="134.791" r="5.76"/>
+	<circle style="fill:#FEA200;" cx="138.661" cy="61.373" r="5.76"/>
+	<circle style="fill:#FF5108;" cx="106.994" cy="139.039" r="7.791"/>
+	<circle style="fill:#FF5108;" cx="142.699" cy="103.334" r="7.791"/>
+	<circle style="fill:#FE7501;" cx="83.276" cy="140.716" r="6.437"/>
+	<circle style="fill:#FE7501;" cx="144.128" cy="79.864" r="6.437"/>
+	<circle style="fill:#FAB600;" cx="129.746" cy="87.051" r="3.638"/>
+	<circle style="fill:#FAB600;" cx="52.138" cy="87.051" r="3.638"/>
+	<circle style="fill:#FEA200;" cx="128.113" cy="75.895" r="4.123"/>
+	<circle style="fill:#FEA200;" cx="53.792" cy="75.895" r="4.123"/>
+	<circle style="fill:#FF4701;" cx="90.699" cy="48.248" r="6.548"/>
+	<circle style="fill:#FF4701;" cx="91.404" cy="125.855" r="6.548"/>
+	<circle style="fill:#FF5108;" cx="109.131" cy="52.613" r="5.577"/>
+	<circle style="fill:#FF5108;" cx="72.987" cy="52.613" r="5.577"/>
+	<circle style="fill:#FE7501;" cx="121.985" cy="63.769" r="4.608"/>
+	<circle style="fill:#FE7501;" cx="60.384" cy="63.769" r="4.608"/>
+	<circle style="fill:#FEA200;" cx="53.771" cy="98.207" r="4.123"/>
+	<circle style="fill:#FEA200;" cx="128.092" cy="98.207" r="4.123"/>
+	<circle style="fill:#FF5108;" cx="72.753" cy="121.49" r="5.577"/>
+	<circle style="fill:#FF5108;" cx="108.897" cy="121.49" r="5.577"/>
+	<circle style="fill:#FE7501;" cx="59.899" cy="110.334" r="4.608"/>
+	<circle style="fill:#FE7501;" cx="121.5" cy="110.334" r="4.608"/>
+	<circle style="fill:#FAB600;" cx="109.983" cy="106.092" r="2.525"/>
+	<circle style="fill:#FAB600;" cx="71.901" cy="68.01" r="2.525"/>
+	<circle style="fill:#FEA200;" cx="114.656" cy="99.817" r="2.861"/>
+	<circle style="fill:#FEA200;" cx="78.187" cy="63.348" r="2.861"/>
+	<circle style="fill:#FF4701;" cx="109.864" cy="67.891" r="4.544"/>
+	<circle style="fill:#FF4701;" cx="72.128" cy="106.319" r="4.544"/>
+	<circle style="fill:#FF5108;" cx="116.766" cy="79.078" r="3.87"/>
+	<circle style="fill:#FF5108;" cx="99.03" cy="61.342" r="3.87"/>
+	<circle style="fill:#FE7501;" cx="117.599" cy="90.86" r="3.198"/>
+	<circle style="fill:#FE7501;" cx="87.372" cy="60.632" r="3.198"/>
+	<circle style="fill:#FEA200;" cx="67.228" cy="74.286" r="2.861"/>
+	<circle style="fill:#FEA200;" cx="103.697" cy="110.755" r="2.861"/>
+	<circle style="fill:#FF5108;" cx="65.118" cy="95.025" r="3.87"/>
+	<circle style="fill:#FF5108;" cx="82.854" cy="112.761" r="3.87"/>
+	<circle style="fill:#FE7501;" cx="64.285" cy="83.243" r="3.198"/>
+	<circle style="fill:#FE7501;" cx="94.512" cy="113.471" r="3.198"/>
+	<circle style="fill:#FAB600;" cx="90.942" cy="106.08" r="1.784"/>
+	<circle style="fill:#FAB600;" cx="90.942" cy="68.023" r="1.784"/>
+	<circle style="fill:#FEA200;" cx="96.413" cy="105.279" r="2.022"/>
+	<circle style="fill:#FEA200;" cx="96.413" cy="68.834" r="2.022"/>
+	<circle style="fill:#FF4701;" cx="109.97" cy="86.933" r="3.211"/>
+	<circle style="fill:#FF4701;" cx="71.914" cy="87.278" r="3.211"/>
+	<circle style="fill:#FF5108;" cx="107.829" cy="95.971" r="2.735"/>
+	<circle style="fill:#FF5108;" cx="107.829" cy="78.247" r="2.735"/>
+	<circle style="fill:#FE7501;" cx="102.359" cy="102.274" r="2.26"/>
+	<circle style="fill:#FE7501;" cx="102.359" cy="72.067" r="2.26"/>
+	<circle style="fill:#FEA200;" cx="85.471" cy="68.824" r="2.022"/>
+	<circle style="fill:#FEA200;" cx="85.471" cy="105.269" r="2.022"/>
+	<circle style="fill:#FF5108;" cx="74.055" cy="78.132" r="2.735"/>
+	<circle style="fill:#FF5108;" cx="74.055" cy="95.856" r="2.735"/>
+	<circle style="fill:#FE7501;" cx="79.525" cy="71.829" r="2.26"/>
+	<circle style="fill:#FE7501;" cx="79.525" cy="102.036" r="2.26"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>
