@@ -1,11 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Asap:400,400i,700,700i&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css?family=Asap:400,400i,700,700i&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Prompt:300,400,700&display=swap');
 body {
-	font-family: 'Asap', sans-serif;
+	/* font-family: 'Asap', sans-serif; */
+	font-family: 'Prompt', sans-serif;
 	margin: 0;
 	color: #332657;
 	position: relative;
 }
+/* .xtarget:target:before {
+	margin-top: -12px;
+	padding-top: 60px;
+} */
 hr {
 	margin: 0;
 	border: none;
@@ -126,8 +131,10 @@ nav {
 /* Dr. Esteban */
 
 .dresteban {
+	min-height: 100vh;
 	background-color: #decada;
 	padding: 5vh 5vw;
+	padding-top: 20vh;
 	display: flex;
 	flex-flow: row;
 }
@@ -158,7 +165,8 @@ nav {
 /* Especialidades */
 
 .espec {
-	min-height: 80vh;
+	min-height: 90vh;
+	padding-top: 10vh;
 	background-color: #eee;
 	display: flex;
 	flex-wrap: wrap;
@@ -204,6 +212,7 @@ nav {
 /* Consultório */
 .consultorio {
 	background-color: #decada;
+	padding-top: 10vh;
 	width: 100%;
 	text-align: center;
 	position: relative;
@@ -211,8 +220,8 @@ nav {
 }
 
 .consultorio p {
-	margin-top: -5vh;
-	margin-bottom: 5vh;
+	margin-top: -8vh;
+	margin-bottom: 2vh;
 	font-size: 1.2em;
 }
 
@@ -222,18 +231,19 @@ nav {
 }
 
 .glide {
-	height: 50vw;
+	height: 36.5vw;
 	overflow: hidden;
 }
 
 /* Artigos */
 .artigos {
 	background-color: #eee;
-	min-height: 42vh;
+	min-height: 90vh;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
 	padding: 5vh 5vw;
+	padding-top: 10vh;
 	align-content: center;
 	justify-content: center;
 }
@@ -304,11 +314,12 @@ article a:hover {
 	flex-flow: row wrap;
 	align-content: flex-start;
 	justify-content: center;
-	padding-top: 5vh;
+	padding-top: 12vh;
 }
 
 .contato-info {
 	text-align: center;
+	padding-top: 4vh;
 }
 
 .contato-info h1 {
@@ -351,6 +362,35 @@ footer {
 footer p {
 	font-size: 0.7em;
 	margin-left: 5vw;
+}
+
+/* Botao TOP */
+
+#myBtn {
+	display: none; /* Hidden by default */
+	position: fixed; /* Fixed/sticky position */
+	bottom: 20px; /* Place the button at the bottom of the page */
+	right: 30px; /* Place the button 30px from the right */
+	z-index: 99; /* Make sure it does not overlap */
+	border: none; /* Remove borders */
+	outline: none; /* Remove outline */
+	background-color: darkorange; /* Set a background color */
+	color: white; /* Text color */
+	cursor: pointer; /* Add a mouse pointer on hover */
+	padding: 15px; /* Some padding */
+	border-radius: 100%; /* Rounded corners */
+	font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+	background-color: #555; /* Add a dark-grey background on hover */
+}
+
+.topo {
+	height: 1.5em;
+	margin: 0;
+	padding: 2px 5px 0 5px;
+	filter: invert(1);
 }
 /* Media Queries */
 @media (min-width: 1441px) {
