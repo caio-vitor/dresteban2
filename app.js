@@ -1,7 +1,7 @@
 const artigo = document.getElementById('artigo');
 const artigos = {
 	art1:
-		'<h1>O que são as arritmias cardíacas?</h1><p>As arritmias cardíacas são situações em que o batimento cardíaco se apresenta irregular, acelerado ou lento. De forma descritiva, as diversas classes de arritmias podem ser caracterizadas como:<ol><li>Bradicardia – batimento lento<li>Taquicardia - batimento acelerado<li>Batimento irregular (como na Fibrilação atrial, por exemplo.)<li>Batimento prematuro (extra-sístoles)</ol><p>Muitas arritmias são de baixo risco cardiovascular. No entanto, alguns casos podem trazer maiores riscos e necessitam de tratamento específico. A avaliação do especialista em arritmias nestes casos é fundamental.',
+		'<h1>O que são as arritmias cardíacas?</h1><p>As arritmias cardíacas são situações em que o batimento cardíaco se apresenta irregular, acelerado ou lento. De forma descritiva, as diversas classes de arritmias podem ser caracterizadas como:<ol><li>Bradicardia – batimento lento<li>Taquicardia – batimento acelerado<li>Batimento irregular (como na Fibrilação atrial, por exemplo.)<li>Batimento prematuro (extra-sístoles)</ol><p>Muitas arritmias são de baixo risco cardiovascular. No entanto, alguns casos podem trazer maiores riscos e necessitam de tratamento específico. A avaliação do especialista em arritmias nestes casos é fundamental.',
 	art2:
 		'<h1>O que pode causar arritmias?</h1><p>Muitos fatores podem contribuir para um mal funcionamento do ritmo cardíaco:<ul><li>Abuso de álcool ou outros tóxicos<li>Diabetes<li>Abuso de cafeína<li>Doenças cardíacas estruturais prévias<li>Hipertensão arterial<li>Hiper e Hipotireoidismo<li>Stress mental<li>Suplementos alimentares inadequados<li>Tabagismo<li>Alterações genéticas</ul>',
 	art3:
