@@ -1,3 +1,4 @@
+// artigos
 const artigo = document.getElementById('artigo');
 const artigos = {
 	art1:
