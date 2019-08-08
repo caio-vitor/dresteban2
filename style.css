@@ -134,7 +134,7 @@ nav {
 	min-height: 100vh;
 	background-color: #decada;
 	padding: 5vh 5vw;
-	padding-top: 20vh;
+	padding-top: 17vh;
 	display: flex;
 	flex-flow: row;
 }
@@ -166,7 +166,7 @@ nav {
 
 .espec {
 	min-height: 90vh;
-	padding-top: 10vh;
+	padding-top: 7vh;
 	background-color: #eee;
 	display: flex;
 	flex-wrap: wrap;
@@ -195,7 +195,7 @@ nav {
 	padding: 2em;
 	flex-basis: 38%;
 	font-size: 1.2em;
-	line-height: 1.5;
+	line-height: 1.15;
 }
 
 .box h4 {
@@ -212,7 +212,7 @@ nav {
 /* Consultório */
 .consultorio {
 	background-color: #decada;
-	padding-top: 10vh;
+	padding-top: 7vh;
 	width: 100%;
 	text-align: center;
 	position: relative;
@@ -226,7 +226,7 @@ nav {
 }
 
 .consultorio img {
-	max-width: 100vw;
+	max-height: 72vh;
 	box-sizing: border-box;
 }
 
