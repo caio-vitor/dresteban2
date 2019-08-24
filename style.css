@@ -486,6 +486,7 @@ footer p {
 
 @media (max-width: 640px) {
 	.hero {
+		background-image: url('assets/imgs/bg01_mob.jpg');
 		background-position: center;
 		width: auto;
 		height: 90vh;
