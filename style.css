@@ -133,7 +133,8 @@ nav {
 .dresteban {
 	min-height: 20em;
 	background-color: #cabfde;
-	padding: 5vh 5vw;
+	padding-left: 5vw;
+	padding-right: 5vw;
 	padding-top: 17vh;
 	display: flex;
 	flex-flow: row;
@@ -144,7 +145,7 @@ nav {
 /* } */
 
 .bio {
-	margin: 0;
+	margin: 0 auto;
 	/* margin-left: 5vw; */
 }
 
