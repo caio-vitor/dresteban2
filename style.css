@@ -135,7 +135,8 @@ nav {
 	background-color: #cabfde;
 	padding-left: 5vw;
 	padding-right: 5vw;
-	padding-top: 17vh;
+	padding-top: 10em;
+	padding-bottom: 10em;
 	display: flex;
 	flex-flow: row;
 }
