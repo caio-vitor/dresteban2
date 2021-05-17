@@ -131,7 +131,7 @@ nav {
 /* Dr. Esteban */
 
 .dresteban {
-	min-height: 100vh;
+	min-height: 20em;
 	background-color: #cabfde;
 	padding: 5vh 5vw;
 	padding-top: 17vh;
@@ -139,13 +139,13 @@ nav {
 	flex-flow: row;
 }
 
-.dresteban img {
-	align-self: flex-start;
-}
+/* .dresteban img { */
+/* 	align-self: flex-start; */
+/* } */
 
 .bio {
 	margin: 0;
-	margin-left: 5vw;
+	/* margin-left: 5vw; */
 }
 
 .bio h1 {
